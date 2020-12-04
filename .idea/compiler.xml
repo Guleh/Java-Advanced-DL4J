@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="DL4J-Karel_Verstreken" />
+        <module name="DL4J3" />
+        <module name="Java_Advanced_DL4J_Karel_Verstreken" />
+        <module name="DL4J-Karel_Verstreken - Copy" />
+        <module name="DL4J-Karel_Verstreken-UI" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
